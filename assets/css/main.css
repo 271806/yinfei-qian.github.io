@@ -3356,19 +3356,3 @@ body.is-touch .poptrox-popup .closer {
 	outline-width: 0px;
 	border-bottom: none;
 }
-
-.image_:hover {
-	text-decoration: none;
-}
-
-.image_:active {
-	text-decoration: none;
-}
-
-.image_:link {
-	text-decoration: none;
-}
-
-.image_:visited {
-	text-decoration: none;
-}
